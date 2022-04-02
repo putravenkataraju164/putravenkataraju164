@@ -1,4 +1,4 @@
 - 👋 Hi, I’m mrpvr
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently working as Associate Consultant at KMPG India.
+- 👀 I’m an a cyber security enthusiastic
+- 🌱 I’m currently working as Consultant at KMPG India.
 - 📫 You can reach me at mrpvr@outlook.com
